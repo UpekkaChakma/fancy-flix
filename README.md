@@ -1,15 +1,13 @@
-# Disney Plus Clone Readme
+# Fantasy-flix Readme
 
-## <a href="https://disney-clone-d1e27.firebaseapp.com" target="_blank">LIVE DEMO</a>
-
-### 🔴 Watch full tutorial <a href='https://www.youtube.com/watch?v=R_OERlafbmw'>HERE</a>
+## <a href="https://fantasy-flix.web.app" target="_blank">LIVE DEMO</a>
 
 ## Description
-This is the ReactJS Disney Plus Clone, the perfect project to put on your portfolio by Clever Programmer.
+This is a ReactJS app about movies
+## Features
+1. Authentication with firebase 
+2. Image Slider
+3. List of Movies
+## Packages used
+React, react-dom, react-router-dom, react-redux, react-scripts, react-slick, slick-carousel, jest-dom, firebase, firebase-tools, bootstrap, styled-components.
 
-## Build it today!
-
-#### PREREQUISITES:
-- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
-- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
-- Download all the images and videos <a href='https://drive.google.com/drive/folders/13SvUkXPh7ZC1FRtp62VKFi572elZyxi8?usp=sharing'>HERE</a>
